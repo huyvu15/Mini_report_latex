@@ -1,2 +1,2 @@
 Tên mẫu báo cáo là tên tệp file lưu trong máy hoặc trên server của overleaf. Đăng lên cho nhớ chứ nhiều quá lúc  tìm lại ko thấy. 
-Còn 1 mẫu nữa khá là đẹp nhưng chưa up lên do ko muốn bị sao chép nội dung trước khi sản phẩm được công bố
+
